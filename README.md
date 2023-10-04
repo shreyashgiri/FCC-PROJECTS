@@ -1,2 +1,4 @@
-# FCC-PROJECTS
-This repository contains a collection of projects completed as part of the FreeCodeCamp curriculum. These projects cover a range of web development and programming topics, and they demonstrate my skills and knowledge in the field.
+# Project 2
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Shreyash-giri/pen/ZEJrgdL](https://codepen.io/Shreyash-giri/pen/ZEJrgdL).
+
